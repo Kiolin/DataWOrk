@@ -8,3 +8,4 @@ C:\Users\alexf\source\repos\Dataworks\Dataworks\obj\Debug\netcoreapp3.1\Datawork
 C:\Users\alexf\source\repos\Dataworks\Dataworks\obj\Debug\netcoreapp3.1\DataworksProgram.AssemblyInfo.cs
 C:\Users\alexf\source\repos\Dataworks\Dataworks\obj\Debug\netcoreapp3.1\DataworksProgram.dll
 C:\Users\alexf\source\repos\Dataworks\Dataworks\obj\Debug\netcoreapp3.1\DataworksProgram.pdb
+C:\Users\alexf\source\repos\Dataworks\Dataworks\obj\Debug\netcoreapp3.1\DataworksProgram.csprojAssemblyReference.cache

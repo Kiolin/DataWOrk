@@ -10,6 +10,9 @@ namespace Dataworks.Model
         bool structureWrong = false;
         public void CheckBracket(string s)
         {
+            if (!stack.IsEmpty)
+                for (int i = 0; i <= stack.Count; i++)
+                    stack.Pop();
             foreach (char bracket in s)
             {
                 if (bracket == '(' || bracket == '{' || bracket == '[')
