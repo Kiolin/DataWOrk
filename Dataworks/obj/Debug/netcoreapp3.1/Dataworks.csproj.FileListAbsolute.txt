@@ -1,0 +1,11 @@
+C:\Users\alexf\source\repos\Dataworks\Dataworks\obj\Debug\netcoreapp3.1\Dataworks.csprojAssemblyReference.cache
+C:\Users\alexf\source\repos\Dataworks\Dataworks\obj\Debug\netcoreapp3.1\Dataworks.AssemblyInfoInputs.cache
+C:\Users\alexf\source\repos\Dataworks\Dataworks\obj\Debug\netcoreapp3.1\Dataworks.AssemblyInfo.cs
+C:\Users\alexf\source\repos\Dataworks\Dataworks\bin\Debug\netcoreapp3.1\Dataworks.exe
+C:\Users\alexf\source\repos\Dataworks\Dataworks\bin\Debug\netcoreapp3.1\Dataworks.deps.json
+C:\Users\alexf\source\repos\Dataworks\Dataworks\bin\Debug\netcoreapp3.1\Dataworks.runtimeconfig.json
+C:\Users\alexf\source\repos\Dataworks\Dataworks\bin\Debug\netcoreapp3.1\Dataworks.runtimeconfig.dev.json
+C:\Users\alexf\source\repos\Dataworks\Dataworks\bin\Debug\netcoreapp3.1\Dataworks.dll
+C:\Users\alexf\source\repos\Dataworks\Dataworks\bin\Debug\netcoreapp3.1\Dataworks.pdb
+C:\Users\alexf\source\repos\Dataworks\Dataworks\obj\Debug\netcoreapp3.1\Dataworks.dll
+C:\Users\alexf\source\repos\Dataworks\Dataworks\obj\Debug\netcoreapp3.1\Dataworks.pdb

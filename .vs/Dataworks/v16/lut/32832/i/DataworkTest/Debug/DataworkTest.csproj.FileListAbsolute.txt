@@ -1,0 +1,9 @@
+C:\Users\alexf\source\repos\Dataworks\.vs\Dataworks\v16\lut\0\b\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\alexf\source\repos\Dataworks\.vs\Dataworks\v16\lut\0\b\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\alexf\source\repos\Dataworks\.vs\Dataworks\v16\lut\0\b\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\alexf\source\repos\Dataworks\.vs\Dataworks\v16\lut\0\b\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\alexf\source\repos\Dataworks\.vs\Dataworks\v16\lut\0\b\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\alexf\source\repos\Dataworks\.vs\Dataworks\v16\lut\0\b\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\alexf\source\repos\Dataworks\.vs\Dataworks\v16\lut\0\b\DataworkTest.dll
+C:\Users\alexf\source\repos\Dataworks\.vs\Dataworks\v16\lut\0\i\DataworkTest\Debug\DataworkTest.csproj.CopyComplete
+C:\Users\alexf\source\repos\Dataworks\.vs\Dataworks\v16\lut\0\i\DataworkTest\Debug\DataworkTest.dll

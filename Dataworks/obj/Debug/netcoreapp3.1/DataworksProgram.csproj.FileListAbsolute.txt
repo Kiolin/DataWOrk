@@ -1,0 +1,10 @@
+C:\Users\alexf\source\repos\Dataworks\Dataworks\bin\Debug\netcoreapp3.1\DataworksProgram.exe
+C:\Users\alexf\source\repos\Dataworks\Dataworks\bin\Debug\netcoreapp3.1\DataworksProgram.deps.json
+C:\Users\alexf\source\repos\Dataworks\Dataworks\bin\Debug\netcoreapp3.1\DataworksProgram.runtimeconfig.json
+C:\Users\alexf\source\repos\Dataworks\Dataworks\bin\Debug\netcoreapp3.1\DataworksProgram.runtimeconfig.dev.json
+C:\Users\alexf\source\repos\Dataworks\Dataworks\bin\Debug\netcoreapp3.1\DataworksProgram.dll
+C:\Users\alexf\source\repos\Dataworks\Dataworks\bin\Debug\netcoreapp3.1\DataworksProgram.pdb
+C:\Users\alexf\source\repos\Dataworks\Dataworks\obj\Debug\netcoreapp3.1\DataworksProgram.AssemblyInfoInputs.cache
+C:\Users\alexf\source\repos\Dataworks\Dataworks\obj\Debug\netcoreapp3.1\DataworksProgram.AssemblyInfo.cs
+C:\Users\alexf\source\repos\Dataworks\Dataworks\obj\Debug\netcoreapp3.1\DataworksProgram.dll
+C:\Users\alexf\source\repos\Dataworks\Dataworks\obj\Debug\netcoreapp3.1\DataworksProgram.pdb

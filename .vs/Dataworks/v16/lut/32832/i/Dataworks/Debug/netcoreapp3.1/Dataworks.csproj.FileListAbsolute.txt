@@ -1,0 +1,10 @@
+C:\Users\alexf\source\repos\Dataworks\.vs\Dataworks\v16\lut\0\b\Dataworks\Debug\netcoreapp3.1\Dataworks.exe
+C:\Users\alexf\source\repos\Dataworks\.vs\Dataworks\v16\lut\0\b\Dataworks\Debug\netcoreapp3.1\Dataworks.deps.json
+C:\Users\alexf\source\repos\Dataworks\.vs\Dataworks\v16\lut\0\b\Dataworks\Debug\netcoreapp3.1\Dataworks.runtimeconfig.json
+C:\Users\alexf\source\repos\Dataworks\.vs\Dataworks\v16\lut\0\b\Dataworks\Debug\netcoreapp3.1\Dataworks.runtimeconfig.dev.json
+C:\Users\alexf\source\repos\Dataworks\.vs\Dataworks\v16\lut\0\b\Dataworks\Debug\netcoreapp3.1\Dataworks.dll
+C:\Users\alexf\source\repos\Dataworks\.vs\Dataworks\v16\lut\0\i\Dataworks\Debug\netcoreapp3.1\Dataworks.csprojAssemblyReference.cache
+C:\Users\alexf\source\repos\Dataworks\.vs\Dataworks\v16\lut\0\i\Dataworks\Debug\netcoreapp3.1\Dataworks.AssemblyInfoInputs.cache
+C:\Users\alexf\source\repos\Dataworks\.vs\Dataworks\v16\lut\0\i\Dataworks\Debug\netcoreapp3.1\Dataworks.AssemblyInfo.cs
+C:\Users\alexf\source\repos\Dataworks\.vs\Dataworks\v16\lut\0\i\Dataworks\Debug\netcoreapp3.1\Dataworks.csproj.CopyComplete
+C:\Users\alexf\source\repos\Dataworks\.vs\Dataworks\v16\lut\0\i\Dataworks\Debug\netcoreapp3.1\Dataworks.dll
